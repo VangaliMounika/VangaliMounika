@@ -12,7 +12,7 @@
 <h3 align="left">Certifications & Achievements:</h3>
 
 
-<p align="center" style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
+<p style="display: flex; justify-content: space-between; margin-top: 20px;">
   <!-- CCNA Intro -->
   <a href="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA Intro" width="80" height="80"/>
