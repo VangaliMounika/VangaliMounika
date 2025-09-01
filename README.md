@@ -10,9 +10,7 @@
 - 📫 How to reach me: [Mounika.vangali@du.edu](mailto:Mounika.vangali@du.edu)  
 
 <h3 align="left">Certifications & Achievements:</h3>
-
-
-<p style="display: flex; justify-content: space-between; margin-top: 20px;">
+<p style="display: flex; gap: 50px; margin-top: 20px;">
   <!-- CCNA Intro -->
   <a href="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA Intro" width="80" height="80"/>
@@ -33,3 +31,4 @@
     <img src="images/ccna.png" alt="CCNA" width="80" height="80"/>
   </a>
 </p>
+
