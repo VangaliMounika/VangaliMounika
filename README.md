@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm V Mounika</h1>
-<h3 align="center">Network Engineer | Designing & Optimizing Scalable Networks | Cloud & Wireless Focus</h3>
+<h3 align="center">Network Engineer | Turning Complex Networks into Seamless Experiences | Cloud, Automation & Wireless Solutions Enthusiast</h3>
 
 - 🔭 Graduated recently with a **Masters in Information and Communication Technology**, Concentration in **Telecommunications Technology** – **University of Denver**
   
