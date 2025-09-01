@@ -11,9 +11,7 @@
 
 <h3 align="left">Certifications & Achievements:</h3>
 
-<p align="left">
-
- <p align="left">
+<p align="center">
   <!-- CCNA Intro -->
   <a href="https://www.credly.com/badges/17c9ef34-26b7-42ea-80ab-0aede28a55f5/linked_in_profile" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" 
